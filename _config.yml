@@ -1,4 +1,3 @@
 theme: jekyll-theme-slate
 title: [Francesca Starita]
-github:
-  site.github.is_project_page: false
+site.github.is_project_page: false
